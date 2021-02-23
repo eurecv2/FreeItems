@@ -1,0 +1,4 @@
+name: FreeItems
+description: Lets you get free items from an item frame through a user-friendly and simple GUI (inventory).
+version: 0.0.1
+main: me.eurec.freeitems.FreeItems
